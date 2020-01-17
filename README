@@ -3,4 +3,4 @@ To build the project:
 -catkin build
 
 Run: 
-roslaunch 
+roslaunch panda_moveit_config demo.launch
