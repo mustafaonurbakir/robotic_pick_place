@@ -3,3 +3,4 @@ To build the project:
 -catkin build
 
 Run: 
+roslaunch 
