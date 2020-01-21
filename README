@@ -7,4 +7,4 @@ roslaunch panda_moveit_config demo.launch
 rosrun moveit_tutorials pick_place_tutorial
 
 Note:
--The object files path in ws_moveit/
+-The object files path in ws_moveit/src
