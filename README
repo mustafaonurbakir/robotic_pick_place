@@ -5,3 +5,6 @@ To build the project:
 Run: 
 roslaunch panda_moveit_config demo.launch
 rosrun moveit_tutorials pick_place_tutorial
+
+Note:
+-The object 
