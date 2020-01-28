@@ -7,4 +7,4 @@ roslaunch panda_moveit_config demo.launch
 rosrun moveit_tutorials pick_place_tutorial
 
 Note:
--The object files path in ws_moveit/src/moveit_tutorials/doc/pick_place
+-The object files path in ws_moveit/src/moveit_tutorials/doc/pick_place/src/pick_place_tutorial.cpp is relative. So, to run on your system please change the file path according to your file system.
